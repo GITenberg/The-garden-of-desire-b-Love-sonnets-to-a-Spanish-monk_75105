@@ -1,0 +1,30 @@
+_repo: The-garden-of-desire-b-Love-sonnets-to-a-Spanish-monk_75105
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Underwood, Edna Worthley
+    birthdate: 1873
+    deathdate: 1961
+    gutenberg_agent_id: '32430'
+    url: http://www.gutenberg.org/2009/agents/32430
+    wikipedia: https://en.wikipedia.org/wiki/Edna_W._Underwood
+description: ''
+gutenberg_issued: '2025-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75105'
+language: en
+pgterms:marc904: https://archive.org/details/gardenofdesirelo00unde/page/n5/mode/2up
+pgterms:marc905: 20230514094039underwood
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bMitchell Kennerley, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The garden of desire : $b Love sonnets to a Spanish monk'
+url: http://www.gutenberg.org/ebooks/75105
